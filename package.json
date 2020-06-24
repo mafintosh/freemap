@@ -1,6 +1,6 @@
 {
   "name": "freemap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Numeric map with a free list",
   "main": "index.js",
   "dependencies": {},
